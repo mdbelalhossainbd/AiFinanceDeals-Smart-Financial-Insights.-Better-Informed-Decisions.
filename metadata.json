@@ -1,0 +1,6 @@
+{
+  "name": "AI Finance Deals",
+  "description": "Smart Financial Insights. Better Informed Decisions. Comprehensive financial education, product comparisons, verified banking & insurance guides, and deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

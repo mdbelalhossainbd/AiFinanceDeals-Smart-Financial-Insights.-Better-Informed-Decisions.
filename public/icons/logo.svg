@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="48" fill="#0D1F3C"/>
+  <rect x="16" y="16" width="224" height="224" rx="40" fill="url(#afd-logo-grad)" opacity="0.92"/>
+  <polyline points="200 88 132 156 92 116 56 168" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="152 88 200 88 200 136" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="afd-logo-grad" x1="16" y1="240" x2="240" y2="16" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#163A5F"/>
+      <stop offset="1" stop-color="#00B894"/>
+    </linearGradient>
+  </defs>
+</svg>

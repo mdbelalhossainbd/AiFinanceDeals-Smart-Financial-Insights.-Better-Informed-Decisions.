@@ -1,0 +1,22 @@
+# ==============================================================================
+# AI Finance Deals — robots.txt
+# Domain: https://aifinancedeals.com
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /api/
+
+# Explicit search engine bot directives
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+
+# Primary XML Sitemap Location
+Sitemap: https://aifinancedeals.com/sitemap.xml
